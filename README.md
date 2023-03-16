@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shriyaMadan
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning a lot xD
+- Technologies I use currently: Reactjs, Django, FastApi
 - 💞️ Check out my [Medium](https://medium.com/@shriyamadan) blogs.
 - 📫 How to reach me: [Connect with me on Linkedin](https://www.linkedin.com/in/shriya-madan)
 
